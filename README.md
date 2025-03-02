@@ -1,3 +1,3 @@
-Test of using UART for STM32 microcontroller.
-Circuit model with button and LED is in Proteus_UART folder.
-.hex file for microcontroller is in Debug folder, main.c file is in /Core/Src.
+Testing of using UART for STM32 microcontroller.
+Circuit model with button and LED is in the Proteus_UART folder.
+.hex file for microcontroller is in the Debug folder, main.c file is in the Core/Src.
